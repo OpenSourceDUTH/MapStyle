@@ -48,11 +48,10 @@ const map = new maplibregl.Map({
     ],
 
     /*
-     * Start in the middle of the verified aerial pyramid.
-     *
-     * This lets us inspect both lower and higher zooms.
+     * Martin's campus COG currently starts at zoom 20.
+     * Start there so the local orthophoto is visible immediately.
      */
-    zoom: 18,
+    zoom: 20,
 
     transformRequest(
         url,
