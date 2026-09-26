@@ -52,7 +52,7 @@ const sourceCatalogue = {
 
         // Martin publishes this COG as TileJSON. Let MapLibre read the
         // server-provided tile URL, bounds, and zoom range.
-        url: `${MARTIN}/campus_aerial`,
+        url: `${MARTIN}/campus_aerial_allzoom`,
 
         tileSize: 512,
 
