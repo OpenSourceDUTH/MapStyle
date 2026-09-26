@@ -53,6 +53,13 @@ const map = new maplibregl.Map({
      */
     zoom: 20,
 
+    // Keep raster tiles in MapLibre's in-memory cache while navigating.
+    maxTileCacheSize: 512,
+
+    // The imagery is immutable for this deployment; do not re-request
+    // tiles because of server expiry headers on every revisit.
+    refreshExpiredTiles: false,
+
     transformRequest(
         url,
         resourceType

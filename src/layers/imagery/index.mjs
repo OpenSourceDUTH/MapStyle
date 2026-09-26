@@ -10,7 +10,8 @@ export const satelliteLayers = [
         source: 'regional-satellite',
 
         paint: {
-            'raster-opacity': 1
+            'raster-opacity': 1,
+            'raster-fade-duration': 0
         }
     }
 ];
@@ -45,7 +46,8 @@ export const aerialLayers = [
         source: 'campus-aerial',
 
         paint: {
-            'raster-opacity': 1
+            'raster-opacity': 1,
+            'raster-fade-duration': 0
         }
     }
 ];
