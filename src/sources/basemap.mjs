@@ -50,15 +50,13 @@ const sourceCatalogue = {
     'campus-aerial': {
         type: 'raster',
 
-        tiles: [
-            `${MARTIN}/campus_aerial_grid_test/{z}/{x}/{y}`
-        ],
+        // Martin publishes this COG as TileJSON. Let MapLibre read the
+        // server-provided tile URL, bounds, and zoom range.
+        url: `${MARTIN}/campus_aerial`,
 
         tileSize: 512,
 
-        minzoom: 14,
-
-        maxzoom: 22
+        scheme: 'xyz'
     },
 
 
