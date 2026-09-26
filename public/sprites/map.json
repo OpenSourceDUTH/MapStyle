@@ -1,0 +1,4293 @@
+{
+  "food-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-college": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-school": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-library": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "food-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-park": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-post": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-car": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 30,
+    "pixelRatio": 1
+  },
+  "food-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-music": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-information": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "food-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-water": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-police": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "food-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "food-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "food-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "food-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-college": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-school": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-library": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "health-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-park": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-post": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-car": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 150,
+    "pixelRatio": 1
+  },
+  "health-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-music": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-information": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 180,
+    "pixelRatio": 1
+  },
+  "health-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-water": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 210,
+    "pixelRatio": 1
+  },
+  "health-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-police": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "health-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-college": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-school": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-library": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 240,
+    "pixelRatio": 1
+  },
+  "education-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-park": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-post": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 270,
+    "pixelRatio": 1
+  },
+  "education-car": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 300,
+    "pixelRatio": 1
+  },
+  "education-music": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-information": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 330,
+    "pixelRatio": 1
+  },
+  "education-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-water": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-police": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "education-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "shopping-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "shopping-college": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "shopping-school": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "shopping-library": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 360,
+    "pixelRatio": 1
+  },
+  "shopping-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-park": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 390,
+    "pixelRatio": 1
+  },
+  "shopping-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-post": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-car": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 420,
+    "pixelRatio": 1
+  },
+  "shopping-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-music": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-information": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 450,
+    "pixelRatio": 1
+  },
+  "shopping-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-water": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-police": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "shopping-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 480,
+    "pixelRatio": 1
+  },
+  "tourism-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-college": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-school": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-library": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 510,
+    "pixelRatio": 1
+  },
+  "tourism-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-park": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-post": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-car": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 540,
+    "pixelRatio": 1
+  },
+  "tourism-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-music": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-information": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 570,
+    "pixelRatio": 1
+  },
+  "tourism-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-water": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-police": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 600,
+    "pixelRatio": 1
+  },
+  "tourism-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "tourism-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "tourism-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "tourism-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-college": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-school": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-library": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 630,
+    "pixelRatio": 1
+  },
+  "service-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-park": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-post": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-car": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 660,
+    "pixelRatio": 1
+  },
+  "service-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-music": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-information": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 690,
+    "pixelRatio": 1
+  },
+  "service-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-water": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 720,
+    "pixelRatio": 1
+  },
+  "service-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-police": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "service-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-college": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-school": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-library": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 750,
+    "pixelRatio": 1
+  },
+  "utility-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-park": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-post": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 780,
+    "pixelRatio": 1
+  },
+  "utility-car": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 810,
+    "pixelRatio": 1
+  },
+  "utility-music": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-information": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 840,
+    "pixelRatio": 1
+  },
+  "utility-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-water": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-police": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "utility-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "leisure-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "leisure-college": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "leisure-school": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "leisure-library": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 870,
+    "pixelRatio": 1
+  },
+  "leisure-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-park": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 900,
+    "pixelRatio": 1
+  },
+  "leisure-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-post": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-car": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 930,
+    "pixelRatio": 1
+  },
+  "leisure-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-music": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-information": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 960,
+    "pixelRatio": 1
+  },
+  "leisure-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-water": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-police": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "leisure-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 990,
+    "pixelRatio": 1
+  },
+  "other-marker": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-college": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-school": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-library": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-restaurant": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-cafe": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-fast-food": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-bar": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-ice-cream": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-hospital": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-doctor": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-pharmacy": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-veterinary": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-fitness-centre": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-swimming": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-beach": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 1020,
+    "pixelRatio": 1
+  },
+  "other-harbor": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-park": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-slipway": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-picnic-site": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-fuel": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-bank": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-town-hall": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-post": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-car": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-car-rental": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-commercial": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-shop": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-bakery": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-grocery": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-clothing-store": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-shoe": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 1050,
+    "pixelRatio": 1
+  },
+  "other-jewelry-store": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-gift": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-mobile-phone": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-hairdresser": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-garden": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-furniture": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-car-repair": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-optician": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-music": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-information": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-viewpoint": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-lodging": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-museum": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-art-gallery": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-attraction": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-historic": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 1080,
+    "pixelRatio": 1
+  },
+  "other-castle": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-monument": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-campsite": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-amusement-park": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-religious-christian": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-theatre": {
+    "width": 28,
+    "height": 28,
+    "x": 150,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-parking": {
+    "width": 28,
+    "height": 28,
+    "x": 180,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-charging-station": {
+    "width": 28,
+    "height": 28,
+    "x": 210,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-taxi": {
+    "width": 28,
+    "height": 28,
+    "x": 240,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-toilet": {
+    "width": 28,
+    "height": 28,
+    "x": 270,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-drinking-water": {
+    "width": 28,
+    "height": 28,
+    "x": 300,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-water": {
+    "width": 28,
+    "height": 28,
+    "x": 330,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-shelter": {
+    "width": 28,
+    "height": 28,
+    "x": 360,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-police": {
+    "width": 28,
+    "height": 28,
+    "x": 390,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-fire-station": {
+    "width": 28,
+    "height": 28,
+    "x": 420,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-recycling": {
+    "width": 28,
+    "height": 28,
+    "x": 450,
+    "y": 1110,
+    "pixelRatio": 1
+  },
+  "other-cinema": {
+    "width": 28,
+    "height": 28,
+    "x": 0,
+    "y": 1140,
+    "pixelRatio": 1
+  },
+  "other-telephone": {
+    "width": 28,
+    "height": 28,
+    "x": 30,
+    "y": 1140,
+    "pixelRatio": 1
+  },
+  "other-bus": {
+    "width": 28,
+    "height": 28,
+    "x": 60,
+    "y": 1140,
+    "pixelRatio": 1
+  },
+  "other-rail": {
+    "width": 28,
+    "height": 28,
+    "x": 90,
+    "y": 1140,
+    "pixelRatio": 1
+  },
+  "transit-bus-stop": {
+    "width": 28,
+    "height": 28,
+    "x": 120,
+    "y": 1140,
+    "pixelRatio": 1
+  }
+}

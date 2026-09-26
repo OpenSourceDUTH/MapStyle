@@ -1,0 +1,22 @@
+{
+  "name": "mapstyle",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "sprite": "node scripts/build-sprite.mjs",
+    "check-icons": "node scripts/check-icons.mjs",
+    "build": "npm run sprite && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@mapbox/maki": "^8.2.0",
+    "maplibre-gl": "^6.10.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.4",
+    "vite": "^8.3.0"
+  }
+}
