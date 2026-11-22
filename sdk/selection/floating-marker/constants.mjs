@@ -1,0 +1,9 @@
+export const ANIMATION_DURATION = 300;
+export const SELECTED_SCALE = 1.6;
+export const SELECTED_LIFT_PX = 62;
+export const BUBBLE_RADIUS_START = 12;
+export const BUBBLE_RADIUS_END = BUBBLE_RADIUS_START;
+export const TAIL_LENGTH_PX = 3;
+export const ANCHOR_RING_RADIUS = 4.2;
+export const ANCHOR_DOT_RADIUS = 2.35;
+export const NO_FILTER = Symbol('no-filter');

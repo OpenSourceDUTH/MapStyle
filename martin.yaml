@@ -1,0 +1,153 @@
+listen_addresses: ${MARTIN_LISTEN_ADDRESS:-127.0.0.1:3001}
+postgres:
+  connection_string: ${DATABASE_URL}
+  auto_publish: false
+  auto_bounds: quick
+  convert_to_mlt: auto
+  tables:
+    places:
+      schema: basemap
+      table: places
+      geometry_column: geom
+      srid: 4326
+      properties:
+        place_id: text
+        display_name: text
+        category: text
+        subtype: text
+        origin: text
+        missing_osm_reference: bool
+        department_ids: _text
+        importance: text
+        label_rank: int4
+        building_id: int8
+    area_labels:
+      schema: basemap
+      table: area_labels
+      geometry_column: geom
+      srid: 4326
+    barrier_points:
+      schema: basemap
+      table: barrier_points
+      geometry_column: geom
+      srid: 4326
+    barriers:
+      schema: basemap
+      table: barriers
+      geometry_column: geom
+      srid: 4326
+    bleacher_rows:
+      schema: basemap
+      table: bleacher_rows
+      geometry_column: geom
+      srid: 4326
+    building_labels:
+      schema: basemap
+      table: building_labels
+      geometry_column: geom
+      srid: 4326
+    buildings:
+      schema: basemap
+      table: buildings
+      geometry_column: geom
+      srid: 4326
+    coastline:
+      schema: basemap
+      table: coastline
+      geometry_column: geom
+      srid: 4326
+    crossing_markings:
+      schema: basemap
+      table: crossing_markings
+      geometry_column: geom
+      srid: 4326
+    land:
+      schema: basemap
+      table: land
+      geometry_column: geom
+      srid: 4326
+    named_road_surfaces:
+      schema: basemap
+      table: named_road_surfaces
+      geometry_column: geom
+      srid: 4326
+    named_roads:
+      schema: basemap
+      table: named_roads
+      geometry_column: geom
+      srid: 4326
+    ocean:
+      schema: basemap
+      table: ocean
+      geometry_column: geom
+      srid: 4326
+    place_labels:
+      schema: basemap
+      table: place_labels
+      geometry_column: geom
+      srid: 4326
+    road_surfaces:
+      schema: basemap
+      table: road_surfaces
+      geometry_column: geom
+      srid: 4326
+    running_track_lanes:
+      schema: basemap
+      table: running_track_lanes
+      geometry_column: geom
+      srid: 4326
+    sidewalk_surfaces:
+      schema: basemap
+      table: sidewalk_surfaces
+      geometry_column: geom
+      srid: 4326
+    transit_stops:
+      schema: basemap
+      table: transit_stops
+      geometry_column: geom
+      srid: 4326
+    transportation:
+      schema: basemap
+      table: transportation
+      geometry_column: geom
+      srid: 4326
+    transportation_areas:
+      schema: basemap
+      table: transportation_areas
+      geometry_column: geom
+      srid: 4326
+    water:
+      schema: basemap
+      table: water
+      geometry_column: geom
+      srid: 4326
+    waterways:
+      schema: basemap
+      table: waterways
+      geometry_column: geom
+      srid: 4326
+
+# Preserve the campus raster source ID used by existing style documents.
+cog:
+  sources:
+    result.martin.allzoom.cog: ${MAPSTYLE_DATA_DIR}/imagery/result.martin.allzoom.cog.tif
+
+# Publish the generated MapLibre style in the Martin web UI and /style/map-style.
+styles:
+  paths:
+    - ${MAPSTYLE_DATA_DIR}/styles
+
+# Use the system DejaVu fonts until the project font files are deployed.
+fonts:
+  paths:
+    - ${MAPSTYLE_DATA_DIR}/fonts
+  aliases:
+    Noto Sans Regular: [DejaVu Sans Book]
+    Noto Sans Bold: [DejaVu Sans Bold]
+    Roboto Black: [DejaVu Sans Bold]
+
+sprites:
+  sources:
+    sprites: ${MAPSTYLE_DATA_DIR}/sprites
+
+cors: true

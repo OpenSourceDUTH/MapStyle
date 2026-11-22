@@ -1,0 +1,9 @@
+[Unit]
+Description=Refresh Kavala OSM data for MapStyle
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/mapstyle
+EnvironmentFile=/etc/mapstyle/mapstyle.env
+ExecStart=/usr/bin/flock -n /tmp/mapstyle-osm-update.lock /usr/bin/npm run db:update

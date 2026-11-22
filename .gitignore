@@ -1,4 +1,6 @@
 /SPORTS.md
 /node_modules
+/dist
+/.env.local
 /result.cog.tif
 /result.martin.al2.cog.tif
