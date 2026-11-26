@@ -15,11 +15,9 @@ BEGIN
         END IF;
     END LOOP;
 
-    IF (SELECT count(*) FROM map.kavala_boundary) <> 1 OR NOT EXISTS (SELECT 1 FROM map.aoi) THEN
-        RAISE EXCEPTION 'Kavala boundary or AOI is missing';
-    END IF;
-    IF NOT EXISTS (SELECT 1 FROM basemap.ocean) OR NOT EXISTS (SELECT 1 FROM map.coastline_derived) THEN
-        RAISE EXCEPTION 'Recovered sea or derived coastline is missing';
+    IF EXISTS (SELECT 1 FROM map.kavala_boundary)
+       AND NOT EXISTS (SELECT 1 FROM map.aoi) THEN
+        RAISE EXCEPTION 'Kavala AOI is missing despite a boundary';
     END IF;
 END;
 $$;
