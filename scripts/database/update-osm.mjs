@@ -46,7 +46,7 @@ try {
     }
     await run('osm2pgsql', [
         '--create', '--slim', '--drop', '--output', 'flex', '--schema', stage,
-        '--style', path.join(databaseDir, 'kavala.lua'), '--database', databaseUrl, path.resolve(extract)
+        '--style', path.join(databaseDir, 'import/osm-flex.lua'), '--database', databaseUrl, path.resolve(extract)
     ], {...process.env, MAPSTYLE_OSM_SCHEMA: stage});
     await psql('-f', path.join(databaseDir, 'refresh-basemap.sql'));
 } finally {
