@@ -75,6 +75,17 @@ current_user, postgis_version();` returned `maps`, `mapstyle_owner`, and
 `3.5 USE_GEOS=1 USE_PROJ=1 USE_STATS=1`, confirming PostGIS is enabled.
 Owner credential rotation is pending verification.
 
+The operator then set PostgreSQL `listen_addresses` to
+`localhost,192.168.1.145` and restarted cluster `17/main`. PostgreSQL was
+listening on `192.168.1.145:5432`, `127.0.0.1:5432`, and `[::1]:5432`.
+The first manager-side connection test could not run because `psql` was not
+installed on `mngmt01`.
+
+After installing the client, the connection reached `login01` and PostgreSQL
+reported `no pg_hba.conf entry` for host `192.168.1.121`, user
+`mapstyle_owner`, database `maps`, with SSL encryption. The cluster reported
+`ssl=on`, so the missing rule is the scoped `hostssl` entry below.
+
 ### Origin configuration
 
 1. On `node002`, restore PostgreSQL and PostGIS using the
