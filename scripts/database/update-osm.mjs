@@ -48,7 +48,7 @@ try {
         '--create', '--slim', '--drop', '--output', 'flex', '--schema', stage,
         '--style', path.join(databaseDir, 'import/osm-flex.lua'), '--database', databaseUrl, path.resolve(extract)
     ], {...process.env, MAPSTYLE_OSM_SCHEMA: stage});
-    await psql('-f', path.join(databaseDir, 'refresh-basemap.sql'));
+    await psql('-f', path.join(databaseDir, 'import/promote-refresh.sql'));
 } finally {
     await psql('-c', `DROP SCHEMA ${stage} CASCADE`);
     if (tempDir) await rm(tempDir, {recursive: true, force: true});
