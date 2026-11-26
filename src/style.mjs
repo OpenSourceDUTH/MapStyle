@@ -52,7 +52,8 @@ import {
 
 
 export function createStyle(
-    representationId = '2d'
+    representationId = '2d',
+    {sprite = null, glyphs = null, martinUrl = null} = {}
 ) {
     const representation =
         getRepresentation(
@@ -215,19 +216,17 @@ export function createStyle(
         version: 8,
 
         glyphs:
-            'https://cdn.protomaps.com/fonts/pbf/{fontstack}/{range}.pbf',
+            glyphs ?? 'https://cdn.protomaps.com/fonts/pbf/{fontstack}/{range}.pbf',
 
         sprite:
-            `${window.location.origin}/sprites/map`,
+            sprite ?? (typeof window === 'undefined' ? undefined : `${window.location.origin}/sprites/map`),
 
         /*
          * Only sources needed by this representation
          * are registered with MapLibre.
          */
         sources:
-            createSources(
-                representation
-            ),
+            createSources(representation, martinUrl),
 
         layers
     };
