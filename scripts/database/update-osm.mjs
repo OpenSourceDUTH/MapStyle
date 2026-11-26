@@ -3,7 +3,7 @@ import {mkdir, mkdtemp, rm} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 
-const databaseDir = fileURLToPath(new URL('../database/', import.meta.url));
+const databaseDir = fileURLToPath(new URL('../../database/', import.meta.url));
 const databaseUrl = process.env.DATABASE_URL;
 const stage = 'mapstyle_osm_stage';
 
