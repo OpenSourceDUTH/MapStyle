@@ -4,10 +4,16 @@
   "description": "",
   "scripts": {
     "dev": "vite",
-    "sprite": "node scripts/build-sprite.mjs",
-    "check-icons": "node scripts/check-icons.mjs",
-    "build": "npm run sprite && vite build",
-    "preview": "vite preview"
+    "build": "npm run build:sprites && node node_modules/vite/bin/vite.js build && npm run build:style",
+    "preview": "vite preview",
+    "build:sprites": "node scripts/build/sprites.mjs",
+    "build:style": "node scripts/build/style.mjs",
+    "build:3d-lod": "node scripts/build/3d-lod.mjs",
+    "check:icons": "node scripts/check/icons.mjs",
+    "inspect:3d-tiles": "node scripts/dev/inspect-3d-tiles.mjs",
+    "db:update": "node scripts/database/update-osm.mjs",
+    "db:init": "psql -X -v ON_ERROR_STOP=1 \"$DATABASE_URL\" -f database/init.sql",
+    "db:verify": "psql -X -v ON_ERROR_STOP=1 \"$DATABASE_URL\" -f database/verify/geometries.sql -f database/verify/places.sql"
   },
   "keywords": [],
   "type": "module",
